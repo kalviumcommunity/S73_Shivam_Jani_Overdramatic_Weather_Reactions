@@ -1,7 +1,7 @@
 {
   "name": "s73_shivam_jani_overdramatic_weather_reactions",
   "version": "1.0.0",
-  "description": "",
+  "description": "My asap project includes the funny overdramatic weather reactions which can be entered by the users , the comments made by them would be humorous and let them know the weather in a funny way.",
   "main": "index.js",
   "directories": {
     "test": "test"
