@@ -1,0 +1,22 @@
+{
+  "name": "s73_shivam_jani_overdramatic_weather_reactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S73_Shivam_Jani_Overdramatic_Weather_Reactions.git"
+  },
+  "author": "Shivam Jani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S73_Shivam_Jani_Overdramatic_Weather_Reactions/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S73_Shivam_Jani_Overdramatic_Weather_Reactions#readme"
+}
